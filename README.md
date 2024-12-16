@@ -5,6 +5,6 @@ All objects needed to remake figures in manuscript available on synapse (synapse
 
 Figure 3: Splenic cDC1 subtype UMAPs, sample UMAPs (EpoR-flox, EpoR-xcr1, TLI-ATS, untreated, EpoR-tdTomato+, EpoR-tdTomato-), marker gene violin and feature plots growth curves, and subtype frequency and log2FC barcharts
 
-![alternativetext](weller_bartok_mcginnis_fig6.png)
+![alternativetext](fig3.png)
 
 
