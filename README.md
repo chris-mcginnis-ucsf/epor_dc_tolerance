@@ -4,7 +4,7 @@ Companion code for Zhang*, McGinnis, et al, 2025. "Erythropoietin receptor on cD
 All objects needed to remake figures in manuscript available on synapse (synapse.org/Synapse:syn64330568)
 
 ![alternativetext](fig3.png)
-
+![alternativetext](fig4.png)
 ![alternativetext](extendedfig5.png)
 
 
